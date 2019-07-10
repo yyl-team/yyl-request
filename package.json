@@ -1,8 +1,9 @@
 {
   "name": "yyl-request",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "request with promise type",
-  "main": "index.js",
+  "main": "./lib/yyl-request.js",
+  "types": "./lib/yyl-request.d.ts",
   "scripts": {
     "test": "jest ./test --env=node --detectOpenHandles"
   },

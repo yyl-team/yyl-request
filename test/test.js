@@ -1,4 +1,4 @@
-const extRequest = require('../index.js');
+const extRequest = require('../lib/yyl-request');
 const request = require('request');
 
 const TEST_CTRL = {
