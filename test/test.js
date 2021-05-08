@@ -8,7 +8,7 @@ const TEST_CTRL = {
   REQUEST_ORIGIN: true
 };
 
-const TEST_URL = 'http://www.yy.com/yyweb/user/queryUserInfo.json';
+const TEST_URL = 'http://9u9ntpb8xp.api.quickmocker.com/getter-test';
 
 const fn = {
   checkError(err, res, body) {
